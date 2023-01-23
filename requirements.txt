@@ -31,3 +31,4 @@ pymongo
 nltk
 tensorflow_text
 tensorflow
+sentence_transformers
